@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeqProxy", "src\SeqProxy\SeqProxy.csproj", "{D6F2712B-2057-4BF8-BDF4-FE5131343DC1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{40ACEC36-A0A7-4DA7-8297-F5BDCA4B58E1}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		publish.sh = publish.sh
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6F2712B-2057-4BF8-BDF4-FE5131343DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6F2712B-2057-4BF8-BDF4-FE5131343DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6F2712B-2057-4BF8-BDF4-FE5131343DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6F2712B-2057-4BF8-BDF4-FE5131343DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
